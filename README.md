@@ -52,13 +52,6 @@ I have a strong bias for turning prototype failure modes into measurable enginee
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarrisWarner04&show_icons=true&theme=radical&hide_border=true" alt="Harshawardhan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarrisWarner04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
 <!-- Let's Connect -->
 <p align="center">
   <a href="https://linkedin.com/in/connect-harshawardhanshrivastava" target="_blank">
