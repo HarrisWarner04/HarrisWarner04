@@ -21,12 +21,7 @@ I have a strong bias for turning prototype failure modes into measurable enginee
 
 ### 🚀 Featured Live Systems & Projects
 
-#### 🎙️ [miniVoxSetu](https://minivoxsetu.bugbiceps.in/)
-**Real-Time Multimodal Voice AI Agent for Indian Banking**
-* Engineered an ultra-low latency multimodal voice AI agent combining streaming STT/TTS; reduced latency from **1,250ms to ~390ms**.
-* Built a hybrid RAG engine combining BM25 and vector search with Reciprocal Rank Fusion (RRF); improved Hit@1 to **93.8%**.
-* Designed a 7-layer barge-in system with <280ms interrupt-to-silence latency.
-* *Tech: Python, FastAPI, WebSockets, Groq, Deepgram, Qdrant, PyTorch, AudioWorklet*
+
 
 #### 🔍 [GitHub Analyzer](https://githubAnalyser.bugbiceps.in/)
 **MCP Server & Agentic Code Review Tool**
